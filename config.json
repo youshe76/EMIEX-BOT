@@ -23,11 +23,11 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
-  "PREFIX": "?",
+  "BOTNAME": "miran",
+  "PREFIX": ".",
   "ADMINBOT": [
-    "YOUR_FB_UID",
-    "OTHER_FB_UID"
+    "100091806309044",
+    ""
   ],
   "DESIGN": {
     "Title": "MTX-BOT",
