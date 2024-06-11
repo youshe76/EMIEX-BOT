@@ -84,6 +84,6 @@
   },
   "menu": {
     "autoUnsend": true,
-    "delayUnsend": 60
+    "delayUnsend": 60 
   }
 }
